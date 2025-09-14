@@ -1,0 +1,2 @@
+query,min_time_ms,max_time_ms,avg_time_ms,runs
+"SELECT Godina, COUNT(*) AS BrojPostova                FROM dbo.Posts_TestPartitioned      ...",8.444547653198242,56.52952194213867,28.32476298014323,3
